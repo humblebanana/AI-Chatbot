@@ -1,1 +1,3 @@
-# I don't know the function of readme.md in fact
+# AI智能聊天助手
+## 使用cursor建立
+
